@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 155f6bd7baefe294c81129624347d7af
+  - enabled: 1
+    path: Assets/Scenes/Agncies Electrade.unity
+    guid: f7057e3e012cbf949b79a744f93b573a
+  - enabled: 1
+    path: Assets/Scenes/Electric Panel.unity
+    guid: b0fdee5f5ef3d2a4580343891e16ec57
+  - enabled: 1
+    path: Assets/Scenes/LeePant.unity
+    guid: 4adba1f8dfa899a419f0b1d8ec038300
   m_configObjects: {}
