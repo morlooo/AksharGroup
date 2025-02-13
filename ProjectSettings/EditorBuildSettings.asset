@@ -9,12 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: 155f6bd7baefe294c81129624347d7af
   - enabled: 1
-    path: Assets/Scenes/Agncies Electrade.unity
+    path: Assets/Scenes/AgnciesElectrade.unity
     guid: f7057e3e012cbf949b79a744f93b573a
   - enabled: 1
-    path: Assets/Scenes/Electric Panel.unity
+    path: Assets/Scenes/ElectricPanel.unity
     guid: b0fdee5f5ef3d2a4580343891e16ec57
   - enabled: 1
     path: Assets/Scenes/LeePant.unity
     guid: 4adba1f8dfa899a419f0b1d8ec038300
+  - enabled: 1
+    path: Assets/Scenes/IndustrialMenuScene.unity
+    guid: 17b534a260261294697adfe424967cf3
+  - enabled: 1
+    path: Assets/Scenes/Electinfra.unity
+    guid: a594b5d32093c8645bbc4fe6fcc76d04
   m_configObjects: {}
